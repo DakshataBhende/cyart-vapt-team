@@ -1,10 +1,10 @@
 # -cyart-vapt-team-
 vapt_task03
 
-# Week 2 – Advanced VAPT (Vulnerability Assessment & Penetration Testing)
+# Week 3 – Advanced VAPT (Vulnerability Assessment & Penetration Testing)
 
 ## Overview
-This repository documents a comprehensive **Week 2 Advanced VAPT practical** focusing on vulnerability discovery, exploitation, post-exploitation evidence collection, and professional reporting. The project follows industry-aligned methodologies and was performed in a controlled lab environment using intentionally vulnerable systems.
+This repository documents a comprehensive **Week 3 Advanced VAPT practical** focusing on vulnerability discovery, exploitation, post-exploitation evidence collection, and professional reporting. The project follows industry-aligned methodologies and was performed in a controlled lab environment using intentionally vulnerable systems.
 
 All activities were conducted for **educational and ethical learning purposes only**.
 
@@ -89,17 +89,16 @@ The assessment was conducted using the **PTES (Penetration Testing Execution Sta
 
 ---
 
-## Documentation & Structure
-All deliverables, screenshots, reports, and logs are organized under the **Week 3** directory, including:
+## Documentation Details
 
-- Vulnerability scan results
-- Exploitation logs
-- Evidence files and hashes
-- Step-by-step workflow documentation
-- Final VAPT reports
+### Workflow
+- **`Workflow/steps.md`**  
+  Contains step-by-step execution of the VAPT lifecycle.
+
+### Reports
+- **`Doc/PTES.md`**  
+  Technical report aligned with PTES methodology.
+- **`Doc/Task Outputs.pdf`**  
+  Screenshots of scan results and practical outputs.
 
 ---
-
-
-## Author
-VAPT Student | Cybersecurity & Ethical Hacking
