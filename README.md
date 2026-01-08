@@ -61,9 +61,9 @@ The assessment was conducted using the **PTES (Penetration Testing Execution Sta
 ## Practical Work Summary
 
 ### Advanced Exploitation
-- Performed exploit chaining (e.g., Web vulnerability to remote shell)
+- Performed exploit chaining 
 - Customized exploit parameters for target environment
-- Successfully obtained Meterpreter sessions on Metasploitable 2
+- Successfully obtained session on Metasploitable 2
 
 ### Web Application Penetration Testing
 - Tested DVWA against OWASP Top 10 vulnerabilities
