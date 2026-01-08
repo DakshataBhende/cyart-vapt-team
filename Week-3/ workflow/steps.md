@@ -33,6 +33,7 @@ This document outlines the step-by-step workflow followed to perform an Advanced
 - Tested for OWASP Top 10 vulnerabilities
 
 **1. SQL Injection Testing**
+
 **2. XSS Testing**
 
 ### Outcome:
