@@ -6,8 +6,6 @@ vapt_task03
 ## Overview
 This repository documents a comprehensive **Week 3 Advanced VAPT practical** focusing on vulnerability discovery, exploitation, post-exploitation evidence collection, and professional reporting. The project follows industry-aligned methodologies and was performed in a controlled lab environment using intentionally vulnerable systems.
 
-All activities were conducted for **educational and ethical learning purposes only**.
-
 ---
 
 ## Lab Environment
