@@ -1,4 +1,4 @@
-# -cyart-vapt-team-
+# cyart-vapt-team
 vapt_task03
 
 # Week 3 – Advanced VAPT (Vulnerability Assessment & Penetration Testing)
